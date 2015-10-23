@@ -8,3 +8,4 @@ Starting point for quickly setting up a basic LAMP dev environment. Uses Vagrant
 2. Create `./www` folder, the contents of this folder will be synced with the apache document root.
 3. Database setup sql in `./db.sql`
 4. Run `vagrant up`
+5. Open site in browser at `localhost:8888`
